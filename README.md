@@ -87,12 +87,11 @@ This project is a **Spring Boot REST API** that generates **PDF documents** base
 ```
 
 ## Notes
-- If running in Windows, ensure your application has permission to access `D:/`.
 - If facing issues with PDF generation, check if the **Thymeleaf templates** exist in `src/main/resources/templates/`.
 
 ## Author
-- **Your Name**  
-- **Email:** your-email@example.com
+- **Anuka Fonseka**  
+- **Email:** akunafonseka@gmail.com
 
 ## License
 This project is licensed under the **MIT License**. Feel free to modify and distribute.
